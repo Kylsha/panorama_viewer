@@ -28,7 +28,7 @@ hasProcessingProvider=no
 # Tags are comma separated with spaces allowed
 tags=panorama,photosphere,360,panellum
 
-homepage=https://pereverzev.info/?p=projects&l=gb
+homepage=https://github.com/Kylsha/panorama_viewer
 category=Plugins
 icon=icon.png
 # experimental flag
